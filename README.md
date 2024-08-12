@@ -82,7 +82,7 @@ Before running the Aero-Gesture project, make sure your environment is set up wi
 
 ## 🌟 Contributing
 
-We welcome contributions from the community! If you're interested in improving Aero-Gesture, please check out our [contribution guidelines](#).
+We welcome contributions from the community! If you're interested in improving Aero-Gesture, please let us know.
 
 ---
 
