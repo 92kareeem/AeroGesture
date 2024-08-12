@@ -36,9 +36,45 @@
 
 ## 🛠️ Getting Started
 
-Ready to experience the future of accessible computing? Follow these steps to get started with Aero-Gesture:
+## 🛠️ Prerequisites
 
-1. **🔽 Installation**: Download and install the Aero-Gesture software from our [releases page](#).
+Before running the Aero-Gesture project, make sure your environment is set up with the following tools and libraries:
+
+1. **Anaconda Python**  
+   *Recommended*: Use Anaconda for managing virtual environments and package installations.
+
+2. **OpenCV-Python**  
+   *For Video Capture*:  
+   ```bash
+   pip install opencv-python
+3. **NumPy**  
+   *For Mathematical Operations*:  
+   ```bash
+   pip install numpy
+6. **PyWin32**  
+   *For Screen Size Detection*:  
+   ```bash
+   pip install pywin32
+7. **PyQt5**  
+   *For Building User Interface*:  
+   ```bash
+   pip install pyqt5
+8. **Dlib**  
+   *For Facial Landmarks Detection*:  
+   ```bash
+   pip install dlib
+*Note*:For installation of Dlib library make sure you have python version 3.8 or below, from version 3.9 dlib library is deprecated. Currently we are working on that issue.
+6. **Cmake**  
+   *Required for Installing Dlib*:  
+   ```bash
+   pip install cmake
+
+
+
+
+
+
+1. **🔽 Installation**: Download and install the Aero-Gesture software requirements as mentioned above. Follow the guidelines.
   
 2. **⚙️ Setup**: Launch the application and follow the guided calibration process to configure the eye-tracking system.
 
