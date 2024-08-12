@@ -34,8 +34,6 @@
 
 ---
 
-## 🛠️ Getting Started
-
 ## 🛠️ Prerequisites
 
 Before running the Aero-Gesture project, make sure your environment is set up with the following tools and libraries:
@@ -59,20 +57,17 @@ Before running the Aero-Gesture project, make sure your environment is set up wi
    *For Building User Interface*:  
    ```bash
    pip install pyqt5
-8. **Dlib**  
+8. **Dlib**  *Note*:For installation of Dlib library make sure you have python version 3.8 or below, from version 3.9 dlib library is deprecated. Currently we are working on that issue.
    *For Facial Landmarks Detection*:  
    ```bash
-   pip install dlib
-*Note*:For installation of Dlib library make sure you have python version 3.8 or below, from version 3.9 dlib library is deprecated. Currently we are working on that issue.
-6. **Cmake**  
-   *Required for Installing Dlib*:  
-   ```bash
    pip install cmake
+   pip install dlib
+   
+  Cmake is Required for installation of Dlib
+  
+---
 
-
-
-
-
+## 🛠️ Getting Started
 
 1. **🔽 Installation**: Download and install the Aero-Gesture software requirements as mentioned above. Follow the guidelines.
   
